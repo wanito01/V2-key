@@ -7,10 +7,10 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "9b50d1241dc0281d",
+    "username": "wanito",
+    "password": "wanito012004",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
